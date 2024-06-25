@@ -1,0 +1,164 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&display=swap');
+
+
+
+
+.nav-item a
+{
+    border-radius: 20px ;
+    color: white;
+}
+
+.nav-item a:hover
+{
+    
+    color : rgb(231, 35, 35);
+    border-radius: 20px;
+}
+
+
+
+
+
+
+#info
+{
+    height: 500px;
+   
+}
+#img-portrait
+{
+    
+    margin-left: 100px;;
+}
+#info span
+{
+    color: orange;
+}
+#info h1
+{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#skillimg
+{
+    width: 140px;
+
+    opacity: 0.5;
+    transition: 0.5s;
+
+    
+}
+#skillimg:hover
+{
+    opacity: 1;
+    padding: 10px;
+    
+}
+#skills
+{
+    margin-top: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+.about-me
+{
+    
+    margin-top: 100px;
+    
+}
+
+#aboutmeImg
+{
+    margin-right: 00px;
+}
+
+#font
+{
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+footer a
+{
+    opacity: 0.8;
+    color: white;
+    margin: 0px 10px;
+
+    font-size: 30px;
+}
+footer a:hover
+{
+    opacity: 1;
+}
+
+
+footer p
+{
+    color: gray;
+}
+
+
+
+#goproid
+{
+    width: 300px;
+
+}
+
+.cardslide
+{
+    margin-top: 250px;
+}
+
+.container
+{
+    background-image: linear-gradient(90deg,black,#921131);
+
+  
+   
+}
+.carousel-item
+{
+    padding-left: 190px;
+    padding-bottom:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
